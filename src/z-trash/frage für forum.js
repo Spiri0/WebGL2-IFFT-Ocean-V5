@@ -1,1 +1,0 @@
-Ich werde auf github ein project starten und das dann "threejs webgpu IFFT ocean" oder irgendwie ähnlich nennen damit klar ist worum es sich handelt. Das können dann alle runterladen. Bis dahin gibt es aber noch ein wenig zu tun. Ich freue mich schon sehr auf r157.  

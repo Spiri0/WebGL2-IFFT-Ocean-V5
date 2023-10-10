@@ -1,0 +1,23 @@
+body {
+	 background: #000000;
+ }
+ 
+#container {
+
+	width: 100vw; 
+	height: 100vh;
+	
+	//width: 512px; 
+	//height: 512px;
+
+	margin-left: auto;
+	margin-right: auto;	
+}
+   
+   
+input {
+	border: none;
+	background-color: #222222;
+	color: green;
+	width: 9em;
+}

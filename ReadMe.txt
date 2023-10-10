@@ -11,5 +11,4 @@ screenshot 27 and 33 ist the earth.
 
 But an earth without an ocean looks bad, so I started creating an ocean. 
 I also have an example app for a cloud generator here on github. With planet-wide clouds, 
-a real ocean and detailed landmasses, this will be a detailed Earth. I want to create a 
-full-fledged three.js environmental generator.
+a real ocean and detailed landmasses, this will be a detailed Earth.

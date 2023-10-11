@@ -1,3 +1,6 @@
+Credits to Phil Crowther, he insired me to this project
+Credits to SimonDev: I learned a lot from his tutorials
+
 This is a preparation project for a WebGPU ocean in three.js. Therefore, many elements are still missing. 
 
 In three.js webgpu I don't use renderTargets, but rather compute shaders. All the textfields serve as useful debuggers for me.

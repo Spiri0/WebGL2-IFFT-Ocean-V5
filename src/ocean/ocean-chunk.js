@@ -68,7 +68,7 @@ export const ocean_chunk = (function() {
 			this.mesh_.material.uniforms.offset.value = data.offset;
 			this.mesh_.material.uniforms.width.value = data.width;
 			this.mesh_.material.uniforms.lod.value = this.params_.lod;
-//			this.mesh_.material.uniformsNeedUpdate = true;
+			this.mesh_.material.uniformsNeedUpdate = true;
  
 		}
 

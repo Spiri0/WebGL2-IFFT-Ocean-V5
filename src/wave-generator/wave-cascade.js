@@ -142,7 +142,7 @@ export const wave_cascade = (() => {
 			// 2. hkt time Spectrum
 			this.screenQuad.material = this.materialSpectrum;
 			this.materialSpectrum.uniforms.begFFT.value = this.h0.texture;
-			this.materialSpectrum.uniforms.time.value += 0.01;
+			this.materialSpectrum.uniforms.time.value += 0.025;
 			this.materialSpectrum.uniformsNeedUpdate = true;			
 			params.renderer.setRenderTarget(this.spectrumFramebuffer);
 			params.renderer.render(this.screenQuad, this.textureCamera);
